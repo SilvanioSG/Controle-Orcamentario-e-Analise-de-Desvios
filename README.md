@@ -21,6 +21,9 @@ O projeto tem como objetivo entregar um relatório executivo e analítico que pe
 **Fonte de dados**
 - `EstimativaDeOrcamento.xlsx`
 
+**Logo da página início**
+- `logo_br_site.png`
+
 **Arquivos gerados**
 - `ControleOrcamentario&AnaliseDeDesvios.pbix`
 - `ControleOrcamentario&AnaliseDeDesvios.pdf`
